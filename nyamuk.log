@@ -1,0 +1,153 @@
+1616934080: mosquitto version 2.0.8 starting
+1616934080: Config loaded from mosquitto.conf.
+1616934080: Opening ipv4 listen socket on port 1883.
+1616934080: Opening ipv6 listen socket on port 1883.
+1616934080: mosquitto version 2.0.8 running
+1616934087: New connection from 127.0.0.1:38322 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38324 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38326 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38328 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38330 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38332 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38334 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38336 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38338 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38340 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38342 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38344 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38346 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38348 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38350 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38352 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38354 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38356 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38358 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38360 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38362 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38364 on port 1883.
+1616934087: Client <unknown> disconnected, not authorised.
+1616934087: New connection from 127.0.0.1:38366 on port 1883.
+1616934087: New client connected from 127.0.0.1:38366 as go_mqtt_client (p2, c1, k30, u'humanz').
+1616934087: Client go_mqtt_client closed its connection.
+1616934090: New connection from 192.168.12.240:49028 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49030 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49032 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49034 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49036 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49038 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49040 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49042 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49044 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49046 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49048 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49050 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49052 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49054 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49056 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49058 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49060 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49062 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49064 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49066 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49068 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49070 on port 1883.
+1616934090: Client <unknown> disconnected, not authorised.
+1616934090: New connection from 192.168.12.240:49072 on port 1883.
+1616934090: New client connected from 192.168.12.240:49072 as go_mqtt_client (p2, c1, k30, u'humanz').
+1616934090: Client go_mqtt_client closed its connection.
+1616934093: mosquitto version 2.0.8 terminating
+1616934231: mosquitto version 2.0.8 starting
+1616934231: Config loaded from mosquitto.conf.
+1616934231: Opening ipv4 listen socket on port 1883.
+1616934231: Opening ipv6 listen socket on port 1883.
+1616934231: mosquitto version 2.0.8 running
+1616934237: New connection from 127.0.0.1:38392 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38394 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38396 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38398 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38400 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38402 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38404 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38406 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38408 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38410 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38412 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38414 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38416 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38418 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38420 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38422 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38424 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38426 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38428 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38430 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38432 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38434 on port 1883.
+1616934237: Client <unknown> disconnected, not authorised.
+1616934237: New connection from 127.0.0.1:38436 on port 1883.
+1616934237: New client connected from 127.0.0.1:38436 as go_mqtt_client (p2, c1, k30, u'humanz').
+1616934237: Client go_mqtt_client closed its connection.
+1616934241: mosquitto version 2.0.8 terminating
