@@ -8,6 +8,8 @@ simple ids to detect auth from internet to mqtt like mosquitto
 go mod download
 go build -o kano_def
 ./kano_def -logfile {path to mosquitto logfile} -maxretry 3
+or use discord webhook to send notif
+./kano_def -logfile {path to mosquitto logfile} -maxretry 3 -Discord https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxx
 ```
 
 ##### Example
